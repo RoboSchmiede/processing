@@ -1,4 +1,5 @@
 # Flood It Game
+- by Wilfried
 
 ## Play locally:
 
@@ -12,3 +13,7 @@
 ## Reimplementation
 
 - lower cpu usage by optimized algorithms
+
+## Source of idea
+
+[Flood It game by Javier Carrasco](https://openprocessing.org/sketch/761031)
